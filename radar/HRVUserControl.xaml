@@ -39,11 +39,11 @@
                                      VerticalContentAlignment="Center" VerticalAlignment="Center">
                 <telerik:RadarLineSeries.DataPoints>
                     <telerik:CategoricalDataPoint Category="指标A" Value="100"/>
-                    <telerik:CategoricalDataPoint Category="指标B" Value="100"/>
-                    <telerik:CategoricalDataPoint Category="指标C" Value="100"/>
-                    <telerik:CategoricalDataPoint Category="指标D" Value="100"/>
+                    <telerik:CategoricalDataPoint Category="指标B" Value="80"/>
+                    <telerik:CategoricalDataPoint Category="指标C" Value="80"/>
+                    <telerik:CategoricalDataPoint Category="指标D" Value="20"/>
                     <telerik:CategoricalDataPoint Category="指标E" Value="100"/>
-                    <telerik:CategoricalDataPoint Category="指标F" Value="100"/>
+                    <telerik:CategoricalDataPoint Category="指标F" Value="40"/>
                 </telerik:RadarLineSeries.DataPoints>
                 <telerik:RadarLineSeries.PointTemplate>
                     <DataTemplate>
