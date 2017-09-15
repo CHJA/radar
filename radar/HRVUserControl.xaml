@@ -31,7 +31,7 @@
             </telerik:RadPolarChart.PolarAxis>
             <!--径向轴-->
             <telerik:RadPolarChart.RadialAxis>
-                <telerik:CategoricalRadialAxis LineStroke="Red" MajorTickInterval="1" FontSize="14" LineThickness="1" 
+                <telerik:CategoricalRadialAxis LineStroke="Red" MajorTickInterval="1" FontSize="24" LineThickness="1" 
                                                LabelOffset="0"
                                                MajorTickLength="5" SmartLabelsMode="SmartStep" TickThickness="0" LabelFitMode="MultiLine"/>
             </telerik:RadPolarChart.RadialAxis>
